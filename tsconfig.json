@@ -2,8 +2,8 @@
   "compilerOptions": {
     "target": "es2020",
     "module": "esnext",
-    "declaration": true,
-    "declarationMap": true,
+    "declaration": false,
+    "declarationMap": false,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "alwaysStrict": true,
