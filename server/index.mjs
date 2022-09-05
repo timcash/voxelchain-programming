@@ -3,7 +3,7 @@ import url from "url";
 import http from "http";
 import crypto from "crypto";
 
-const VOXELCHAIN_HOST = `https://localhost`;
+const VOXELCHAIN_HOST = `https://voxelchain.app`;
 const VOXELCHAIN_PORT = 8688;
 
 const WATCH_FILE_PATH = `./dist/index.js`;
