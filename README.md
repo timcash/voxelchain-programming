@@ -6,7 +6,7 @@ A boilerplate example of how to program with the localhost API of [VoxelChain](h
 
 ### Cloning the repository:
 ````
-https://github.com/VoxelChain/voxelchain-formats.git
+https://github.com/VoxelChain/voxelchain-programming.git
 ````
 
 ### Installing dependencies:
