@@ -14,6 +14,11 @@ https://github.com/VoxelChain/voxelchain-programming.git
 npm install
 ````
 
+### Build
+```
+npm run build
+```
+
 ### Enabling the Localhost API
 To allow localhost API access on the VoxelChain website, go to `Settings` and toggle the `Localhost API` option to `ON`:
 <img src="https://i.imgur.com/3RHy4uX.png">
